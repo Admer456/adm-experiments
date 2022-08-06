@@ -1,0 +1,7 @@
+[submodule "adm-utils"]
+	path = extern/adm-utils
+	url = https://github.com/Admer456/adm-utils.git
+	shallow = 1
+[submodule "extern/debug-draw"]
+	path = extern/debug-draw
+	url = https://github.com/glampert/debug-draw.git
